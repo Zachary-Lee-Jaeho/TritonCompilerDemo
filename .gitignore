@@ -1,0 +1,11 @@
+# pycache
+__pycache__/
+
+# temporary files
+_compiled/
+_mlir_dump/
+_output_mlir/
+_pass_diff/
+
+# .vscode
+.vscode/
